@@ -1,5 +1,7 @@
 This is Andrew Foster's repository. deucemaccoy, or DeuceMaccoy, is my typical online pseudonym.
 
+![alt text](https://github.com/SCCSC-Computer-Technology/CPT-206-Lab0-deucemaccoy/blob/pictures/get%20in.jpg)
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/hOIdVcZI)
 # :wave: The Basics of GitHub 
 
